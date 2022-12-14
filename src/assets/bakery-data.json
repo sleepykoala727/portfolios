@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Personas & Storyboarding",
+    "users": "Members of public libraries, including low income parents, homeless individuals, children and teenagers, and more.",
+    "description": "Creating personas for this was important to me as a former public library employee. I saw the importance of not just the library, but being able to access the plentiful resources inside. That's why improving and understanding the public library catalogue computer was important to me - it gives library visitors a chance to locate the item they're looking for on their own by browsing the library's database. Connected to a barcode scanner, keyboard, and mouse, they can sign in through their library card, filter through various categories to narrow their search, and be put on a waitlist for unavailable items. Since this library is a part of a network of libraries, this search can also apply to libraries outside of the one they're using.",
+    "context": "This assignment allowed me to step into real users' by observing them interacting with an interface of my choice - the public library catalogue computer. After interviewing these individuals about their experiences, I created personas based on them, and illustrated a storyboard.",
+    "image": "images/personas.png",
+    "link": "https://sleepykoala727.github.io/Personas-Storyboarding/"
+  },
+  {
+    "name": "Iterative Design and Evaluation",
+    "users": "Workers in unfair, unreasonable, and unforgiving work spaces that need help organizing to unionize",
+    "description": "Designing a software platform for mapping the workplace in an organizing setting was important to me and my group mates because we recognized the importance of this kind of work, as well as the difficulty of it. As computer science majors, we're lucky to be able to speak the language that helps speed along vital aspects of organizing, but we recognize that non CS workers deserve the ability to unionize despite not having those skills.",
+    "context": "This assignment allowed me to work in a group of four to design an interactive interface for an emerging startup - we chose Unit, a startup for creating an organizing platform for aspiring union members. We went through the full process of mocking up a solution to the startup's concept, including sketching ideas for the interface, creating the interactive, high-fi prototype, conducting user testing on the final, revised prototype, and contacting the start up. ",
+    "image": "images/iterative.png",
+    "link": "https://anoeticbeaver312.github.io/iterative-design/"
+  },
+  {
+    "name": "Responsive Redesign",
+    "users": "Older, local restaurant and business owner",
+    "description": "I chose to redesign Papa Pasquale's Pizzeria because many restaurants have subpar design, but it's often small, local businesses that suffer from this the most. Most small businesses, especially those run by older people, don't have the means or the resources to a well designed website, which is unfortunate since it takes a lot for these businesses to survive. This is a site my friends and I frequented during covid, so despite the subpar food, there is some sentimental attachment.",
+    "context": "This assignment allowed me to redesign a simple website by analyzing and identifying flaws in an existing website, creating low-fi and high- prototypes for various screen sizes, and build a responsive website based on those prototypes.",
+    "image": "images/responsive.png",
+    "link": "https://sleepykoala727.github.io/Responsive-Redesign/redesign.html"
+  },
+  {
+    "name": "Development - Art Gallery Shop",
+    "users": "Independent artist trying to make a living selling their art.",
+    "description": "I chose to create a shop to sell art because as an artist myself, I understand the plight and difficulty of trying to sell your work. Not only is creating website not often a skillset of artsits, but online commerce platforms are the main ways for artists to make a living off of their work.",
+    "context": "This assignment allowed me to develop an interactive, list-based interface, use interface components, and tie the components to an internal data state in React.",
+    "image": "images/gallery.png",
+    "link": "https://sleepykoala727.github.io/development/"
+  }
+]
